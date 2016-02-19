@@ -1,0 +1,33 @@
+# python stuff
+*.pyc
+
+# applog stuff
+*.err
+*.log
+*.perf
+*.trace
+
+# for pycharm
+.idea/
+
+# tests stuff
+.cache/
+.coverage
+.tox/
+coverage.xml
+htmlcov/
+
+# venv
+venv/
+
+# packages
+.eggs/
+journals_nlmcatalog.egg-info/
+
+# wheel stuff
+build/
+dist/
+ncbi_docsum.egg-info/
+
+# Mac OS things
+.DS_Store
